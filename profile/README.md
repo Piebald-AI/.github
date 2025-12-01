@@ -36,7 +36,7 @@ We've also have a suite of cool open-source projects that we're working on, and 
 > Customize your Claude Code system prompts, themes, and more.  Adds features like `/toolset` and `/title` and fixes bugs.
 
 [**Claude Code System Prompts**](https://github.com/Piebald-AI/claude-code-chats)
-> Fast local viewer for your Claude Code sessions.
+> All parts of Claude Code's system prompt, 16 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
 
 [**Splitrail**](https://github.com/Piebald-AI/splitrail)
 > CLI monitor for agentic dev tool usage.  Supports 10 tools: Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Roo Code, Kilo Code, GitHub Copilot, OpenCode.
