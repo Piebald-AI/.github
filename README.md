@@ -1,6 +1,4 @@
-<div align="right">
-<img width="200" src="./Wordmark.svg">
-</div>
+<img width="200" align="right" src="./Wordmark.svg">
 
 Hi. 👋
 
