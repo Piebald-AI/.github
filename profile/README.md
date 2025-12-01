@@ -19,7 +19,7 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
 
 We've also have a suite of cool open-source projects that we're working on, and we'd love contributions ;)
 
-<detail>
+<details>
 <summary>Click to see our portfolio (7 repos)</summary>
 
 <p align="right">
@@ -62,4 +62,4 @@ Splitrail also supports Gemini CLI. :point_up:
 
 <sub>Piebald itself is not open-source, but we use GitHub for our issue tracker and our releases: https://github.com/Piebald-AI/piebald.</sub>
 
-</detail>
+</details>
