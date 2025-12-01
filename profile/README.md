@@ -1,4 +1,4 @@
-<a href="https://piebald.ai"><img width="200" align="right" src="../Wordmark.svg"></a>
+<!-- <a href="https://piebald.ai"><img width="200" align="right" src="../Wordmark.svg"></a> -->
 
 Hi. 👋
 
@@ -18,6 +18,9 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
 </div>
 
 We've also have a suite of cool open-source projects that we're working on, and we'd love contributions ;)
+
+<detail>
+<summary>Click to see our portfolio (7 repos)</summary>
 
 <p align="right">
   <b>Claude Code</b>
@@ -58,3 +61,5 @@ Splitrail also supports Gemini CLI. :point_up:
 > Node.js bindings for [LIEF - the Library to Instrument Executable Formats.](https://github.com/lief-project/LIEF).  We use it in tweakcc to support patching Claude Code native (binary) installations.
 
 <sub>Piebald itself is not open-source, but we use GitHub for our issue tracker and our releases: https://github.com/Piebald-AI/piebald.</sub>
+
+</detail>
