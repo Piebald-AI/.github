@@ -1,4 +1,4 @@
-<img width="200" align="right" src="./Wordmark.svg">
+<a href="https://piebald.ai"><img width="200" align="right" src="./Wordmark.svg"></a>
 
 Hi. 👋
 
