@@ -4,14 +4,26 @@ We're the team behind the ultimate agentic AI control experience, [Piebald](http
 
 Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on marketing new convoluted flows to get software built.  It's **a better set of tools** for the job you're already doing.  With better tools, you can do the same work you already know how to do, but more efficiently, more safely, and more enjoyably.  Our goal is to enhance your **existing** workflows with higher-quality versions of the features you're familiar with, and new features that you didn't know you needed.
 
-<img width="644" height="1922" alt="image (1)" src="https://github.com/user-attachments/assets/1bf7ec02-bd77-4c71-a95d-92e66fd29d0d" />
+👉&nbsp;&nbsp;**[piebald.ai](https://piebald.ai)**
 
-### **Interested?  👉 https://piebald.ai/**
+<div align="center">
 
-Piebald itself is not open-source, but we use GitHub for our issue tracker and our releases: https://github.com/Piebald-AI/piebald.  We do have a suite of cool open-source projects that we're working on, and we'd love contributions ;)
+<img width="2229" height="1620" alt="hero" src="https://github.com/user-attachments/assets/3dfcd871-ae70-4081-b5be-85beea7dc134" />
+<h4><a href="https://piebald.ai/download" style="text-decoration: none">Download</a> &bullet; <a href="https://piebald.ai/docs" style="text-decoration: none">Docs</a> &bullet; <a href="https://github.com" style="text-decoration: none">Issue Tracker</a></h4>
+
+&nbsp;
+
+&nbsp;
+
+</div>
+
+| abc | def |
+| --- | --- |
+| <h1>hello</h1>hello
+
+We also have a suite of cool open-source projects that we're working on, and we'd love contributions ;)
 
 #### [**tweakcc**](https://github.com/Piebald-AI/tweakcc)
-
 Customize your Claude Code system prompts, themes, and more.  Adds features like `/toolset` and `/title` and fixes bugs.
 
 #### [**Claude Code System Prompts**](https://github.com/Piebald-AI/claude-code-chats)
@@ -38,7 +50,7 @@ In-progress desktop/web UI for Gemini CLI.
 
 Node.js bindings for [LIEF - the Library to Instrument Executable Formats.](https://github.com/lief-project/LIEF).  We use it in tweakcc to support patching Claude Code native (binary) installations.
 
-Piebald itself is not open-source, but we use GitHub for our issue tracker and our releases: https://github.com/Piebald-AI/piebald
+<sub>Piebald itself is not open-source, but we use GitHub for our issue tracker and our releases: https://github.com/Piebald-AI/piebald.</sub>
 
 ---
 
