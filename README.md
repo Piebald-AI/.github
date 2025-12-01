@@ -19,6 +19,11 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
 
 We've also have a suite of cool open-source projects that we're working on, and we'd love contributions ;)
 
+<p align="right">
+  <b>Claude Code</b>
+  <hr/>
+</p>
+
 [**tweakcc**](https://github.com/Piebald-AI/tweakcc)
 > Customize your Claude Code system prompts, themes, and more.  Adds features like `/toolset` and `/title` and fixes bugs.
 
@@ -31,11 +36,23 @@ We've also have a suite of cool open-source projects that we're working on, and 
 [**Claude Code Chats**](https://github.com/Piebald-AI/claude-code-chats)
 > Fast local viewer for your Claude Code sessions.
 
+<p align="right">
+  <b>Gemini CLI</b>
+  <hr/>
+</p>
+
 [**Awesome Gemini CLI**](https://github.com/Piebald-AI/awesome-gemini-cli)
 > Curated list of awesome tools, extensions, and resources for Gemini CLI.  (Plus [awesome-gemini-cli-extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions).)
 
 [**Gemini CLI Desktop**](https://github.com/Piebald-AI/gemini-cli-desktop)
 > In-progress desktop/web UI for Gemini CLI.
+
+Splitrail also supports Gemini CLI. :point_up:
+
+<p align="right">
+  <b>Non-AI-related</b>
+  <hr/>
+</p>
 
 [**node-lief**](https://github.com/Piebald-AI/node-lief)
 > Node.js bindings for [LIEF - the Library to Instrument Executable Formats.](https://github.com/lief-project/LIEF).  We use it in tweakcc to support patching Claude Code native (binary) installations.
