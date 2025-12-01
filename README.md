@@ -17,10 +17,6 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
 
 </div>
 
-| abc | def |
-| --- | --- |
-| <h1>hello</h1>hello
-
 We also have a suite of cool open-source projects that we're working on, and we'd love contributions ;)
 
 #### [**tweakcc**](https://github.com/Piebald-AI/tweakcc)
