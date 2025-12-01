@@ -16,7 +16,7 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
   <img alt="hero" src="https://github.com/user-attachments/assets/25cb5df8-cf15-4cae-9c1e-e88645f06ee1">
 </picture>
 
-<h4><a href="https://piebald.ai/download" style="text-decoration: none">Download</a> &bullet; <a href="https://piebald.ai/docs" style="text-decoration: none">Docs</a> &bullet; <a href="https://github.com" style="text-decoration: none">Issue Tracker</a></h4>
+<h4><a href="https://piebald.ai/download" style="text-decoration: none">Download</a> &bullet; <a href="https://piebald.ai/docs" style="text-decoration: none">Docs</a> &bullet; <a href="https://piebald.ai/docs/roadmap" style="text-decoration: none">Roadmap</a> &bullet; <a href="https://github.com/Piebald-AI/piebald/issues/new" style="text-decoration: none">Issue Tracker</a></h4>
 
 &nbsp;
 
