@@ -65,6 +65,8 @@ Splitrail also supports Gemini CLI. :point_up:
 [**node-lief**](https://github.com/Piebald-AI/node-lief)
 > Node.js bindings for [LIEF - the Library to Instrument Executable Formats.](https://github.com/lief-project/LIEF).  We use it in tweakcc to support patching Claude Code native (binary) installations.
 
+<hr/>
+
 <sub>Piebald itself is not open-source, but we use GitHub for our issue tracker and our releases: https://github.com/Piebald-AI/piebald.</sub>
 
 </details>
