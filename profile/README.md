@@ -6,7 +6,7 @@ We're the team behind the ultimate agentic AI control experience, [Piebald](http
 
 Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on marketing new convoluted flows to get software built.  It's **a better set of tools** for the job you're already doing.  With better tools, you can do the same work you already know how to do, but more efficiently, more safely, and more enjoyably.  Our goal is to enhance your **existing** workflows with higher-quality versions of the features you're familiar with, and new features that you didn't know you needed.
 
-👉&nbsp;&nbsp;**[piebald.ai](https://piebald.ai)**
+### **[piebald.ai](https://piebald.ai)**
 
 <div align="center">
 
