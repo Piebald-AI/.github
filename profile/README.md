@@ -22,4 +22,4 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
 
 </div>
 
-We've also have a suite of cool open-source projects that we're working on :point_down: and we'd love contributions ;)
+We also have a suite of cool open-source projects that we're working on :point_down: and we'd love contributions ;)
