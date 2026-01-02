@@ -16,7 +16,15 @@ Piebald isn't a reimagining of AI-driven development&mdash;our focus is not on m
   <img alt="hero" src="https://piebald.ai/screenshot-light.png">
 </picture>
 
-<h4><a href="https://piebald.ai/download" style="text-decoration: none">Download</a> &bullet; <a href="https://piebald.ai/docs" style="text-decoration: none">Docs</a> &bullet; <a href="https://piebald.ai/docs/roadmap" style="text-decoration: none">Roadmap</a> &bullet; <a href="https://github.com/Piebald-AI/piebald/issues/new" style="text-decoration: none">Issue Tracker</a></h4>
+<a href="https://piebald.ai/discord"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join our Discord"></a>
+<a href="https://x.com/PiebaldAI"><img src="https://img.shields.io/badge/Follow%20%40PiebaldAI-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+
+<h4>
+  <a href="https://piebald.ai/download" style="text-decoration: none">Download</a>
+  &bullet; <a href="https://piebald.ai/docs" style="text-decoration: none">Docs</a>
+  &bullet; <a href="https://piebald.ai/docs/roadmap" style="text-decoration: none">Roadmap</a>
+  &bullet; <a href="https://github.com/Piebald-AI/piebald/issues/new" style="text-decoration: none">Issue Tracker</a>
+</h4>
 
 &nbsp;
 
